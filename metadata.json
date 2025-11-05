@@ -1,1 +1,24 @@
-{"config":{"basePath":"/storage/emulated/0/Documents/.com.pdf.note.reader.recycle","cleanupHours":1,"deleteRogueFiles":false,"retentionBytes":-1,"retentionDays":30,"retentionNumOfFiles":-1,"triggerCleanupAutomatically":true},"files":[],"totalSize":0}
+{
+  "name": "PeopleCoin",
+  "symbol": "PLC",
+  "description": "Token communautaire expérimental sur Solana Devnet",
+  "image": "https://gigifa667.github.io/PeopleCoin/BCO.a8baecee-add4-44df-93a8-2fee0c8169be.png",
+  "external_url": "https://peoplecoin.dev",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gigifa667.github.io/PeopleCoin/BCO.a8baecee-add4-44df-93a8-2fee0c8169be.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8KLWCmkdMGgqLPQ7eAmntziz8AqyDyhyGc3zu5JXPE9A",
+        "share": 100
+      }
+    ]
+  }
+}

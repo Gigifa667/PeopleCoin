@@ -1,15 +1,14 @@
 {
   "name": "PeopleCoin",
-  "symbol": "PLC",
-  "description": "Token communautaire expérimental sur Solana Devnet",
-  "image": "https://gigifa667.github.io/PeopleCoin/BCO.a8baecee-add4-44df-93a8-2fee0c8169be.png",
+  "symbol": "PEOP",
+  "description": "La crypto du peuple",
+  "image": "https://gigifa667.github.io/PeopleCoin/logo.png",
   "external_url": "https://peoplecoin.dev",
-  "seller_fee_basis_points": 0,
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://gigifa667.github.io/PeopleCoin/BCO.a8baecee-add4-44df-93a8-2fee0c8169be.png",
+        "uri": "https://gigifa667.github.io/PeopleCoin/logo.png",
         "type": "image/png"
       }
     ],

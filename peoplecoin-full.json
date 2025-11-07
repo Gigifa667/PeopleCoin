@@ -1,0 +1,13 @@
+{
+  "name": "PeopleCoin",
+  "symbol": "PEOP",
+  "uri": "https://gigifa667.github.io/PeopleCoin/peoplecoin-full.json",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "8KLWCmkdMGgqLPQ7eAmntziz8AqyDyhyGc3zu5JXPE9A",
+      "verified": true,
+      "share": 100
+    }
+  ]
+}

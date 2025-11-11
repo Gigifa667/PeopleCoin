@@ -1,25 +1,25 @@
 {
   "name": "PeopleCoin",
   "symbol": "PEOP",
-  "description": "Jeton créé par le peuple, pour le peuple.",
+  "description": "PeopleCoin est un token communautaire sur Solana.",
   "image": "https://raw.githubusercontent.com/Gigifa667/PeopleCoin/main/BCO.a8baecee-add4-44df-93a8-2fee0c8169be.png",
+  "seller_fee_basis_points": 500,
   "attributes": [
-    {
-      "trait_type": "Projet",
-      "value": "Communautaire"
-    },
-    {
-      "trait_type": "Blockchain",
-      "value": "Solana"
-    }
+    { "trait_type": "Community", "value": "Global" },
+    { "trait_type": "Utility", "value": "Governance" }
   ],
   "properties": {
+    "creators": [
+      {
+        "address": "8KLWCmkdMGgqLPQ7eAmntziz8AqyDyhyGc3zu5JXPE9A",
+        "share": 100
+      }
+    ],
     "files": [
       {
         "uri": "https://raw.githubusercontent.com/Gigifa667/PeopleCoin/main/BCO.a8baecee-add4-44df-93a8-2fee0c8169be.png",
         "type": "image/png"
       }
-    ],
-    "category": "image"
+    ]
   }
 }
